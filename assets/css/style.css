@@ -731,6 +731,20 @@ line-height: 26px;
 
     
 }
+.blog h2{
+    margin-top: 100px;
+    /* margin-bottom: 20px; */
+}
+.blog .content p{
+    width: 448px;
+    /* display: inline-block; */
+    padding-bottom: 55px;
+    /* padding-top:50px  */
+    /* margin-top: 50px; */
+}
+.blog .content{
+    /* margin-bottom: 55px; */
+}
 
 /* ============================END BLOG  */
 /* ==================================FOOTER=============================  */
